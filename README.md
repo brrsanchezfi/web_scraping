@@ -16,9 +16,9 @@ pip install -r requirements.txt
 
 ## Ejecución
 
-1. Abre el archivo `main.py`.
+1. Abre terminal dentro de la carpeta `web_scraping`.
 
-2. Cambia la variable `url` para que contenga la URL de la página web que deseas consultar.
+2. Cambia la variable `url` para que contenga la URL de la página web que deseas consultar en mi caso puse la de `https://www.zara.com/co/`.
 
 3. Ejecuta el script `main.py` para iniciar la consulta y generación del informe de encabezado de respuesta de la página web.
 
