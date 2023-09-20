@@ -8,7 +8,7 @@ import schedule
 import time
 
 # URL de la página web a consultar
-url = 'https://www.ejemplo.com'
+url = 'https://www.zara.com/co/'
 
 def consultar_y_generar_informe():
     try:
@@ -52,8 +52,8 @@ def consultar_y_generar_informe():
     except requests.exceptions.RequestException as e:
         print(f"Error al realizar la solicitud GET: {e}")
 
-# Programar la consulta y generación de informes cada 6 horas
-schedule.every(6).hours.do(consultar_y_generar_informe)
+# Programar la consulta y generación de informes cada 2 segundos
+schedule.every(2).seconds.do(consultar_y_generar_informe)
 
 while True:
     schedule.run_pending()
