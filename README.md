@@ -51,5 +51,3 @@ Este proyecto utiliza las siguientes bibliotecas de Python:
 
 ¡Gracias por revisar este proyecto de prueba técnica! Si tienes alguna pregunta o comentario, no dudes en contactarme.
 ```
-
-Este README específico para una prueba técnica proporciona información sobre los requisitos, cómo ejecutar el código, notas importantes y la política de contribución. Asegúrate de personalizarlo según las instrucciones proporcionadas en la prueba técnica y de incluir cualquier detalle adicional que sea relevante para los revisores.
